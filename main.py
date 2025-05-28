@@ -22,7 +22,7 @@ CONFIG_DRIVE_ID = '1DA6YNnnlcLL8tiqvvaaJJnDM2sxrxDTx'  # ID of the directory.jso
 
 # Default folder aliases to use if config can't be loaded, this will not work, just placeholder
 DEFAULT_FOLDER_ALIASES = {
-    "Default": "1cQOPRBrw7Z7IRcvAloKl32wizZabc71m"
+    "Default": "1234"
 }
 
 SERVICE_ACCOUNT_INFO = {
